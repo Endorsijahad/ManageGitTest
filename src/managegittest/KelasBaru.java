@@ -17,4 +17,7 @@ public class KelasBaru {
     public int getUmur(){
         return 23;
     }
+    public int getKelamin(){
+        return 0;
+    }
 }
