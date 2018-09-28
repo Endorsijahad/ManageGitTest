@@ -19,7 +19,7 @@ public class ManageGitTest {
         System.out.println(getName());
     }
     public static String getName(){
-        return "Icha";
+        return "Nande";
     }
     
 }
