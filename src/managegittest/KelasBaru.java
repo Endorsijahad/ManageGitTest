@@ -14,4 +14,7 @@ public class KelasBaru {
     public String getName(){
         return "Ini kelas baru";
     }
+    public int getUmur(){
+        return 23;
+    }
 }
