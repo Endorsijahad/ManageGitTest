@@ -16,6 +16,7 @@ public class ManageGitTest {
      */
     public static void main(String[] args) {
         System.out.println(getName());
+        System.out.println(getName());
     }
     public static String getName(){
         return "Icha";
