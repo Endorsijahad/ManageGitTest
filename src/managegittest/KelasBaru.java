@@ -11,4 +11,7 @@ package managegittest;
  */
 public class KelasBaru {
     
+    public String getName(){
+        return "Ini kelas baru";
+    }
 }
